@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/Aditya9111/Tasko-Client/main/public/logo.jpg)
 
-Tasko is a Trello clone for productivity built using React, Redux and Chakra UI.
+Tasko is a productivity app built using React, Redux and Chakra UI.
 
 ## Tech Stack
 
@@ -17,7 +17,7 @@ Tasko is a Trello clone for productivity built using React, Redux and Chakra UI.
 
 ## Demo
 
-[Tasko Live](https://tasko.netlify.app/)
+[Tasko Live](https://tasko-app.netlify.app/)
 
 ## Run Locally
 
@@ -49,9 +49,6 @@ Start the server
 
 - [@aditya9111](https://www.github.com/aditya9111)
 
-## 🚀 About Me
-
-I'm a full stack Javascript Developer. I Love to build scalable applications using React.
 
 ## 🔗 Links
 
