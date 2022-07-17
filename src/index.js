@@ -8,7 +8,8 @@ import "./index.css";
 import App from "./App";
 import { store } from "./redux/store";
 
-axios.defaults.baseURL = process.env.REACT_API_URL || "http://localhost:3001/";
+axios.defaults.baseURL =
+  process.env.REACT_APP_API_URL || "https://taskobackend.herokuapp.com/";
 
 ReactDOM.render(
   <React.StrictMode>
